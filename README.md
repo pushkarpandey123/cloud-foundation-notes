@@ -13,3 +13,7 @@ Refer to vpc-architecture.md for VPC subnet tiers, routing tables, and security 
 ## Networking Overview
 Refer to vpc-architecture.md for VPC subnet tiers and routing tables.
 ## Conflict Section: Update from main branch
+## Conflict Section: Update from feature branch
+
+## Merged Architecture Summary
+Unified networking architecture combining main baseline with feature updates.
