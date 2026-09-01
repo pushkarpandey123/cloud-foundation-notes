@@ -12,3 +12,4 @@ Refer to vpc-architecture.md for VPC subnet tiers, routing tables, and security 
 
 ## Networking Overview
 Refer to vpc-architecture.md for VPC subnet tiers and routing tables.
+## Conflict Section: Update from feature branch
